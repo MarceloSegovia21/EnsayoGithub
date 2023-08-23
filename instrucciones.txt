@@ -1,2 +1,3 @@
 Hola esta es mi pagina web
 que tratara de explicar como crear videojuegos
+de manera en la que yo aprenda a usar html y css de mejor manera
